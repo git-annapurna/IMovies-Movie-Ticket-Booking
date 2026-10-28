@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1793205436395",
+    "movieId": 1,
+    "movieTitle": "Inception",
+    "seats": [
+      1,
+      2
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T16:37:16.396Z"
+  },
+  {
+    "id": "1793207723970",
+    "movieId": 1,
+    "movieTitle": "Inception",
+    "seats": [
+      7,
+      8
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T17:15:23.970Z"
+  },
+  {
+    "id": "1793208613291",
+    "movieId": 2,
+    "movieTitle": "Interstellar",
+    "seats": [
+      14,
+      11
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T17:30:13.292Z"
+  },
+  {
+    "id": "1793208973007",
+    "movieId": 2,
+    "movieTitle": "Interstellar",
+    "seats": [
+      14,
+      17
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T17:36:13.007Z"
+  },
+  {
+    "id": "1793213413595",
+    "movieId": 1,
+    "movieTitle": "Inception",
+    "seats": [
+      6
+    ],
+    "totalPrice": 200,
+    "bookedAt": "2026-10-28T18:50:13.595Z"
+  },
+  {
+    "id": "1793213422808",
+    "movieId": 3,
+    "movieTitle": "The Dark Knight",
+    "seats": [
+      13,
+      7
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T18:50:22.808Z"
+  },
+  {
+    "id": "1793213434048",
+    "movieId": 2,
+    "movieTitle": "Interstellar",
+    "seats": [
+      8,
+      12,
+      17,
+      18
+    ],
+    "totalPrice": 800,
+    "bookedAt": "2026-10-28T18:50:34.048Z"
+  },
+  {
+    "id": "1793213559529",
+    "movieId": 2,
+    "movieTitle": "Interstellar",
+    "seats": [
+      12,
+      13
+    ],
+    "totalPrice": 400,
+    "bookedAt": "2026-10-28T18:52:39.529Z"
+  },
+  {
+    "id": "1793213624742",
+    "movieId": 1,
+    "movieTitle": "Inception",
+    "seats": [
+      12,
+      13,
+      18,
+      19,
+      20
+    ],
+    "totalPrice": 1000,
+    "bookedAt": "2026-10-28T18:53:44.742Z"
+  },
+  {
+    "id": "1793213758776",
+    "movieId": 3,
+    "movieTitle": "The Dark Knight",
+    "seats": [
+      13
+    ],
+    "totalPrice": 200,
+    "bookedAt": "2026-10-28T18:55:58.776Z"
+  },
+  {
+    "id": "1793213765431",
+    "movieId": 3,
+    "movieTitle": "The Dark Knight",
+    "seats": [
+      7
+    ],
+    "totalPrice": 200,
+    "bookedAt": "2026-10-28T18:56:05.431Z"
+  }
+]
