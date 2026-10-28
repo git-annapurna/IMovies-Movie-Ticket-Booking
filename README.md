@@ -43,4 +43,4 @@ Open the local address displayed by Vite.
 - Real-time seat availability
 
 - ## Project Demo
-- [Watch IMovies Demo Video](https://drive.google.com/file/d/1Uox05Watk8ZppD2KxzqPpfxMIoKTfbuI/view?usp=sharing)
+- [Watch IMovies Demo Video](https://drive.google.com/file/d/1EAtDKaTgaScVr7kt5toBSF-o-CXH0bah/view?usp=sharing)
