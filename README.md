@@ -41,3 +41,6 @@ Open the local address displayed by Vite.
 - Database integration
 - Online payments
 - Real-time seat availability
+
+- ## Project Demo
+- [Watch IMovies Demo Video](https://drive.google.com/file/d/1Uox05Watk8ZppD2KxzqPpfxMIoKTfbuI/view?usp=sharing)
